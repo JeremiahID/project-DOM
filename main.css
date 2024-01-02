@@ -111,4 +111,9 @@ label{
     border-radius: 5px;
     font-family: calibri;
     font-weight:900 ;
+    cursor: pointer;
+}
+
+.delete:hover , .add-books:hover{
+    background-color: rgba(0, 0, 0, 0.74);
 }
